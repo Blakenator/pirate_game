@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33068fc021dadc04dab6e00e4ff45c00, type: 3}
+  m_Name: WavesBoatScene
+  m_EditorClassIdentifier: 
+  _windSpeed: 33.333336
+  _fetch: 500000
+  _waveDirectionVariance: 90
+  _gravityScale: 1
+  _smallWavelengthMultiplier: 1
+  _multiplier: 1
+  _powerLog:
+  - -5.2074933
+  - -4.454919
+  - -3.7023458
+  - -2.9497795
+  - -2.1972394
+  - -1.4448036
+  - -0.69278544
+  - 0.057562485
+  - 0.8012288
+  - 1.5181696
+  - 2.1282074
+  - 2.310634
+  - 0.7826143
+  - -7
+  _powerDisabled: 0000000000000000000001010101
+  _chopScales:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  _gravityScales:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  _chop: 1.69
+  _showAdvancedControls: 0
